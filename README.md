@@ -1,6 +1,4 @@
 # My-magazine
 
-* This is a basic design made in html and css.
-* This helps in understanding the CSS grid.
-* You can view this website in your browser after cloning tis project and opening it with the help of **live server** extension of VS code.
-* I made this step by step on [freeCodeCamp](https://www.freecodecamp.org/) in the course Responsive Web Design while learning HTML and CSS. You can also get certification upon its completeion.
+* CSS Grid gives you control over the rows and columns of your webpage design. In this project, you'll build a magazine article. You'll learn how to use CSS Grid, including concepts like grid rows and grid columns.
+* You can learn this on [freeCodeCamp](https://www.freecodecamp.org/) step by step.
